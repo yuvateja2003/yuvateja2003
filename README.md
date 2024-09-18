@@ -1,5 +1,20 @@
-# 💫 About Me:
-## 🔭 I'm currently working on<br>Developing live websites and AI-powered coding platforms. My projects include creating responsive web applications using React.js and implementing machine learning algorithms to enhance code generation and analysis. I'm passionate about bridging the gap between traditional web development and cutting-edge AI technologies.<br><br>## 👯 I'm looking to collaborate on<br>Innovative projects that combine web technologies with AI and machine learning. I'm particularly interested in open-source initiatives that aim to create intelligent coding assistants or AI-driven web development tools. If you're working on something that pushes the boundaries of web and AI integration, let's connect!<br><br>## 🤝 I'm looking for help with<br>Advancing my skills in large language models and their applications in coding environments. I'm keen to learn from experienced developers about optimizing AI models for web-based platforms and implementing efficient backend solutions for AI-powered applications.<br><br>## 🌱 I'm currently learning<br>Deepening my understanding of full-stack development with a focus on scalable AI integrations. This includes exploring advanced React patterns, diving into Node.js and Express.js for robust backend solutions, and studying the latest advancements in AI and machine learning algorithms applicable to web development.<br><br>## 💬 Ask me about<br>My experience in building AI-enhanced web applications. I'm always eager to discuss the challenges and exciting possibilities at the intersection of web development and artificial intelligence, as well as share insights on creating user-friendly interfaces for complex AI systems.<br><br>## ⚡ Fun fact<br>When I'm not immersed in code or AI research, I unwind by playing chess – a game that, much like programming and AI, requires strategic thinking and the ability to anticipate multiple moves ahead!
+## 🔭 I'm currently working on
+Developing and deploying full-stack web applications with a focus on integrating AI technologies. My projects leverage React.js for responsive front-ends, Node.js and Express for robust back-ends, and explore machine learning algorithms to enhance user experiences and automate coding processes.
+
+## 👯 I'm looking to collaborate on
+Open-source projects that push the boundaries of web development and AI integration. I'm particularly interested in initiatives that combine modern web technologies with machine learning to create innovative, user-centric applications or developer tools.
+
+## 🤝 I'm looking for help with
+Advancing my expertise in AI and machine learning, especially in their applications to web development. I'm eager to connect with experienced developers who can provide insights on implementing efficient AI models in web-based environments and optimizing full-stack applications for scalability.
+
+## 🌱 I'm currently learning
+Expanding my full-stack development skills by delving deeper into advanced React patterns, Node.js ecosystem, and Express.js for creating scalable backend solutions. I'm also exploring the latest advancements in AI and machine learning to enhance my projects with intelligent features.
+
+## 💬 Ask me about
+My experience in building responsive web applications using HTML, CSS, JavaScript, and React.js. I'm always excited to discuss full-stack development strategies, the integration of AI in web applications, and approaches to creating efficient, user-friendly interfaces for complex systems.
+
+## ⚡ Fun fact
+When I'm not coding or exploring new technologies, you can find me strategizing over a game of chess or pushing my limits at the gym. I believe that cultivating both mental agility and physical discipline contributes to becoming a well-rounded developer and problem-solver!
 
 
 # 💻 Tech Stack:
