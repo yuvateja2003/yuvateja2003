@@ -20,7 +20,7 @@ Using HTML, CSS, JavaScript, and React.js, I have built responsive web applicati
 
 ## ⚡ Fun fact
 
-When I'm not coding or exploring new technologies, you can find me strategizing over a game of chess or pushing my limits at the gym. I believe that cultivating both mental agility and physical discipline contributes to becoming a well-rounded developer and problem-solver!
+When I'm not coding or exploring new technologies, you can find me strategizing over a game of chess or pushing my limits at the gym. I believe that cultivating both mental agility and physical discipline contributes to becoming a well-rounded developer and problem-solver.
 
 
 # 💻 Tech Stack:
